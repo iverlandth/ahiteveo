@@ -32,7 +32,7 @@ test:
   host: localhost
 
 production:
-  adapter: postgresql #mysql
+  adapter:  mysql # postgresql #mysql
   encoding: utf8
   reconnect: false
   database: promociones10_production

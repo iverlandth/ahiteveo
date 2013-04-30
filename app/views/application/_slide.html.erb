@@ -1,53 +1,30 @@
-<% slidesclases = %w{ cube cubeRandom block cubeStop cubeHide cubeSize horizontal } %>
+<% slidesclases = %w{ cube cubeRandom block cubeStop cubeHide cubeSize horizontal showBars showBarsRandom tube fade fadeFour paralell blind blindHeight blindWidth directionTop directionBottom directionRight directionLeft cubeStopRandom cubeSpread } %>
 <% rand_slides= rand(slidesclases.length) %>
 <% slidesclases[rand_slides] %>
 <% @sliders = Slider.all %>
 
 
 
+
 <div class="border_box">
   <div class="box_skitter box_skitter_large">
-    <ul>
-      <% rand_slides= rand(slidesclases.length) %>
-      <li>
-
-        <a href="#">
-          <%= image_tag "sie.jpg", :class => slidesclases[rand_slides] %>
-
-        </a>
-
-        <div class="label_text">
-          <p>
-            Sie SRL
-          </p>
-        </div>
-      </li>
+    <ul class="box_skitter_ul">
       <% @sliders.each do |slider| %>
           <% rand_slides= rand(slidesclases.length) %>
-
           <li>
-            <% @empresas = Empresa.find(:all, :conditions => {:id => " #{slider.id_empresa}"}) %>
+            <% @empresas = Empresa.find(:all, :conditions => {:id =>" #{slider.id_empresa}"}) %>
             <% slider.id_empresa %>
             <% @empresas.each do |empresa| %>
                 <% @hola=empresa.id %>
             <% end %>
-            sdasdfasd
-            <%= File.exists?(root_path+slider.image.to_s) %>
-            asdfasdf
-            <a href=<%= "/empresas/#{@hola}" %>>
-              <% if File.exists?(root_path+slider.image.to_s) %>
-                  <img     src=<%= "/assets/logosie1.png" %>
-              <% else %>
-                  <img    src=<%= "'#{slider.image}'" %>
-              <% end %>
-              <%= "class='#{slidesclases[rand_slides]}'" %>/></a>
 
+            <a href=<%="/empresas/#{@hola}" %>><img src="<%=slider.image %>" class="<%= slidesclases[rand_slides] %>" /></a>
             <div class="label_text">
               <p>
-                <% @empresas = Empresa.find(:all, :conditions => {:id => " #{slider.id_empresa}"}) %>
+                <% @empresas = Empresa.find(:all, :conditions => {:id =>" #{slider.id_empresa}"}) %>
                 <% slider.id_empresa %>
                 <% @empresas.each do |empresa| %>
-                    <%= link_to empresa.nombre, empresa %>
+                    <%=  empresa.nombre %>
                 <% end %>
               </p>
             </div>

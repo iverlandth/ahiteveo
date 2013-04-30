@@ -2,113 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34902c6c-61a4-418d-84ee-4bc66b3d6d24" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\proyectos\Copia de promociones\app\views\application\_deptos.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="D:\proyectos\Copia de promociones\public\uploads\tmp\20130319-1938-3716-0164\descarga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\proyectos\Copia de promociones\public\uploads\tmp\20130319-1938-3716-2349\descarga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\proyectos\Copia de promociones\public\uploads\tmp\20130319-1938-3716-6983\descarga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\proyectos\Copia de promociones\public\uploads\tmp\20130319-1944-3716-0158\67035_423970304363198_1967859683_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\proyectos\Copia de promociones\public\uploads\tmp\20130319-1955-3716-5246\577079_1.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/authentications/Copy of index.html.erb" afterPath="$PROJECT_DIR$/app/views/authentications/Copy of index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sliders/Copy of index.html.erb" afterPath="$PROJECT_DIR$/app/views/sliders/Copy of index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/Copy of show.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/Copy of show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_construccion.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_construccion.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/authentications/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/authentications/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/categoria/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/categoria/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/ciudads/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/ciudads/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cupons/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/cupons/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/departamentos/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/departamentos/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/descripcions/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/descripcions/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/estados/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/estados/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/personas/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/personas/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/promocions/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/promocions/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sliders/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/sliders/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/supercategoria/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/supercategoria/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/_formu.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/_formu.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_menu1.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_menu1.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_menu2.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_menu2.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_menu3.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_menu3.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_new.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_new.html.erb" />
+      <change type="DELETED" beforePath="C:\iver\proyectos\ahiteveo\Gemfile.lock" afterPath="" />
+      <change type="MOVED" beforePath="C:\iver\proyectos\ahiteveo\app\assets\javascripts\contacts.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/contacts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_slide.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_slide.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/_tooltip.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/_tooltip.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/active_admin.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/active_admin.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/acuerdo.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/acuerdo.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/authentication.rb" afterPath="$PROJECT_DIR$/app/models/authentication.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/authentications_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/authentications_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/buscacupo.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/buscacupo.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/buscamenu.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/buscamenu.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/buscapromo.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/buscapromo.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/buscar.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/buscar.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/categoria_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/categoria_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/principal/categoriasindex.html.erb" afterPath="$PROJECT_DIR$/app/views/principal/categoriasindex.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/categorium.rb" afterPath="$PROJECT_DIR$/app/models/categorium.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/ciudads_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/ciudads_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/contact.rb" afterPath="$PROJECT_DIR$/app/models/contact.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/contacts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/contacts_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/cupon.rb" afterPath="$PROJECT_DIR$/app/models/cupon.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/cupons_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/cupons_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/departamento.rb" afterPath="$PROJECT_DIR$/app/models/departamento.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/departamentos_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/departamentos_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/descripcions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/descripcions_controller.rb" />
-      <change type="MODIFICATION" beforePath="D:\proyectos\Copia de promociones\log\development.log" afterPath="D:\proyectos\Copia de promociones\log\development.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/password_resets/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/password_resets/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/empresa.rb" afterPath="$PROJECT_DIR$/app/models/empresa.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/uploaders/empresaimage_uploader.rb" afterPath="$PROJECT_DIR$/app/uploaders/empresaimage_uploader.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/empresas_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/empresas_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/estado.rb" afterPath="$PROJECT_DIR$/app/models/estado.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/estados_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/estados_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/formulario.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/formulario.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/acercade/index.html.erb" afterPath="$PROJECT_DIR$/app/views/acercade/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/authentications/index.html.erb" afterPath="$PROJECT_DIR$/app/views/authentications/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/categoria/index.html.erb" afterPath="$PROJECT_DIR$/app/views/categoria/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/ciudads/index.html.erb" afterPath="$PROJECT_DIR$/app/views/ciudads/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/configuraciones/index.html.erb" afterPath="$PROJECT_DIR$/app/views/configuraciones/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/index.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/cupons/index.html.erb" afterPath="$PROJECT_DIR$/app/views/cupons/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/departamentos/index.html.erb" afterPath="$PROJECT_DIR$/app/views/departamentos/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/descripcions/index.html.erb" afterPath="$PROJECT_DIR$/app/views/descripcions/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/index.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/estados/index.html.erb" afterPath="$PROJECT_DIR$/app/views/estados/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/personas/index.html.erb" afterPath="$PROJECT_DIR$/app/views/personas/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/principal/index.html.erb" afterPath="$PROJECT_DIR$/app/views/principal/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/promocions/index.html.erb" afterPath="$PROJECT_DIR$/app/views/promocions/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sliders/index.html.erb" afterPath="$PROJECT_DIR$/app/views/sliders/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/supercategoria/index.html.erb" afterPath="$PROJECT_DIR$/app/views/supercategoria/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/list.html.erb" afterPath="$PROJECT_DIR$/app/views/users/list.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/muesempre.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/muesempre.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/new.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/new.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/password_resets/new.html.erb" afterPath="$PROJECT_DIR$/app/views/password_resets/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/personas/new.html.erb" afterPath="$PROJECT_DIR$/app/views/personas/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sessions/new.html.erb" afterPath="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/newempresa.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/newempresa.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/personas/newpersona.html.erb" afterPath="$PROJECT_DIR$/app/views/personas/newpersona.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/password_resets_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/password_resets_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/persona.rb" afterPath="$PROJECT_DIR$/app/models/persona.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/personas_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/personas_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/presentacion.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/presentacion.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/principal_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/principal_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/promocion.rb" afterPath="$PROJECT_DIR$/app/models/promocion.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/promocions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/promocions_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/ciudads/show.html.erb" afterPath="$PROJECT_DIR$/app/views/ciudads/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contacts/show.html.erb" afterPath="$PROJECT_DIR$/app/views/contacts/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/empresas/show.html.erb" afterPath="$PROJECT_DIR$/app/views/empresas/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/personas/show.html.erb" afterPath="$PROJECT_DIR$/app/views/personas/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/slider.rb" afterPath="$PROJECT_DIR$/app/models/slider.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/uploaders/sliderimage_uploader.rb" afterPath="$PROJECT_DIR$/app/uploaders/sliderimage_uploader.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sliders_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sliders_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/supercategoria_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/supercategoria_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/supercategorium.rb" afterPath="$PROJECT_DIR$/app/models/supercategorium.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/departamentos/viewindex.html.erb" afterPath="$PROJECT_DIR$/app/views/departamentos/viewindex.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/promociones RC2.iml" afterPath="$PROJECT_DIR$/.idea/promociones RC2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="promociones RC2.iws" />
@@ -116,20 +23,20 @@
     <file path="/empresas_controller.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362919511335" ignored="false" />
     <file path="/show.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362918413204" ignored="false" />
     <file path="/edit.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362918188502" ignored="false" />
-    <file path="/index.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365527470034" ignored="false" />
+    <file path="/index.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366645890807" ignored="false" />
     <file path="/_menu1.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365526176157" ignored="false" />
     <file path="/contacts_controller.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362917882642" ignored="false" />
     <file path="/contact.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362917582980" ignored="false" />
-    <file path="/new.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365526664847" ignored="false" />
+    <file path="/new.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367329795812" ignored="false" />
     <file path="/ability.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362917790024" ignored="false" />
     <file path="/_form.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362918938409" ignored="false" />
     <file path="D:/promociones RC2/app/views/empresas/_form.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362915877589" ignored="false" />
     <file path="/Ruby Console" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1362912833060" ignored="false" />
-    <file path="/Dummy.txt" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365528025604" ignored="false" />
-    <file path="/database.yml" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1363730263169" ignored="false" />
-    <file path="/Gemfile" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1363730290638" ignored="false" />
-    <file path="/production.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1363730322622" ignored="false" />
-    <file path="/_slide.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365530834489" ignored="false" />
+    <file path="/Dummy.txt" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367327443523" ignored="false" />
+    <file path="/database.yml" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367346565987" ignored="false" />
+    <file path="/Gemfile" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367327705842" ignored="false" />
+    <file path="/production.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659763111" ignored="false" />
+    <file path="/_slide.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367331283092" ignored="false" />
     <file path="$PROJECT_DIR$/../Copia de siecursos/.git/config" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1363810842303" ignored="false" />
     <file path="/routes.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365526571084" ignored="false" />
     <file path="$PROJECT_DIR$/../igenesis/app/views/users/list.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365526895639" ignored="false" />
@@ -139,6 +46,37 @@
     <file path="/buscacupo.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365529068887" ignored="false" />
     <file path="/active_admin.css" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365531323502" ignored="false" />
     <file path="/muesempre.css" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1365531397064" ignored="false" />
+    <file path="$PROJECT_DIR$/../siecursos/Gemfile" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366234979688" ignored="false" />
+    <file path="$PROJECT_DIR$/../igenesis/Gemfile" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366234996901" ignored="false" />
+    <file path="$PROJECT_DIR$/../siecursos/Gemfile.lock" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366235919416" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/Gemfile.lock" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366645574774" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/app/views/myradio/index.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366645897544" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/app/assets/stylesheets/application.css" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366645963550" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/app/views/layouts/application.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366648717960" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/app/views/main/index.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366646656855" ignored="false" />
+    <file path="/application.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367329931045" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/.git/config" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366651784210" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/app/views/layouts/application.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366658166276" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/app/views/application/_side.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366658525623" ignored="false" />
+    <file path="/_side.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366658513070" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/app/views/application/_footer.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366658829515" ignored="false" />
+    <file path="/_footer.html.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366658829515" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/app/views/layouts/application.mobile.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659005889" ignored="false" />
+    <file path="/application.mobile.erb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366658956566" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/config/database.yml" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659880905" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/newproyect/Gemfile" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659181737" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/newproyect/config/initializers/secret_token.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659185604" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/newproyect/config/database.yml" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659200315" ignored="false" />
+    <file path="$USER_HOME$/RubymineProjects/newproyect/Gemfile.lock" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659237133" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/Gemfile.lock" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659593007" ignored="false" />
+    <file path="/Gemfile.lock" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659556793" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/config/environments/production.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366659763111" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/db/schema.rb" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366660136009" ignored="false" />
+    <file path="$PROJECT_DIR$/../tesis - copia - copia/app/assets/stylesheets/style2.css" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1366660563105" ignored="false" />
+    <file path="$PROJECT_DIR$/../lvcradio/config/database.yml" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367337158879" ignored="false" />
+    <file path="G:/prueba/Gemfile" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367341304664" ignored="false" />
+    <file path="G:/prueba/Gemfile.lock" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367341310597" ignored="false" />
+    <file path="G:/prueba/config/database.yml" changelist="34902c6c-61a4-418d-84ee-4bc66b3d6d24" time="1367341342880" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,10 +95,33 @@
     <groupTables value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="promociones RC2" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="authentications_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/authentications_controller.rb">
+      <file leaf-file-name="users.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="67" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="18" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -168,8 +129,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="categoria_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/categoria_controller.rb">
+      <file leaf-file-name=".project" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.project">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -177,8 +138,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ciudads_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/ciudads_controller.rb">
+      <file leaf-file-name="rails" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/rails">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -186,8 +147,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cupons_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/cupons_controller.rb">
+      <file leaf-file-name="robots.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/robots.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -195,8 +156,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acercade_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/acercade_helper.rb">
+      <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -204,8 +165,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <file leaf-file-name="schema.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/schema.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -213,8 +174,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_mailer.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/mailers/user_mailer.rb">
+      <file leaf-file-name="README.rdoc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -222,28 +183,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ability.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/ability.rb">
+      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="empresaimage_uploader.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/uploaders/empresaimage_uploader.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="2" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sliderimage_uploader.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/uploaders/sliderimage_uploader.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="2" selection-start="1435" selection-end="1435" vertical-scroll-proportion="1.3663552">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -270,22 +213,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/empresas/buscapromo.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/empresas/buscamenu.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/acercade/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/categoria/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/departamentos/viewindex.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/empresas/show.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/personas/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/application/_slide.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/active_admin.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/formulario.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/muesempre.css" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/ciudads_controller.rb" />
         <option value="$PROJECT_DIR$/app/uploaders/empresaimage_uploader.rb" />
         <option value="$PROJECT_DIR$/app/uploaders/sliderimage_uploader.rb" />
+        <option value="$PROJECT_DIR$/app/views/empresas/acuerdo.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/empresas/presentacion.html.erb" />
+        <option value="$PROJECT_DIR$/log/development.log" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/application/_slide.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/contacts.js" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -297,10 +240,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1032" />
-    <option name="height" value="746" />
+    <option name="x" value="342" />
+    <option name="y" value="1" />
+    <option name="width" value="1024" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -328,6 +271,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -336,735 +280,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locales" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="initializers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="environments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user_mailer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="supercategoria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sliders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sessions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promocions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="principal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="password_resets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="estados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="empresas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="descripcions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="departamentos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cupons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contacts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contactos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="configuraciones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ciudads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="categoria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="authentications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acercade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploaders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mailers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="promociones RC2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Copia de promociones" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="last_opened_file_path" value="G:/prueba" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../igenesis" />
+    <property name="FullScreen" value="false" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1284,6 +516,13 @@
       <RUBY_REMOTE_DEBUG_CONFIG NAME="LOCAL_ROOT" VALUE="$PROJECT_DIR$/test" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -1315,11 +554,23 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
-      <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSRemoteDebuggerConfigurationSettings>
+    <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
+      <module name="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="C:\iver\proyectos\ahiteveo" />
+      <RACK_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RACK_CONFIG_SETTINGS_ID NAME="PORT" VALUE="9292" />
+      <RACK_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RACK_CONFIG_SETTINGS_ID NAME="CONFIG_FILE" VALUE="config.ru" />
+      <RACK_CONFIG_SETTINGS_ID NAME="RACK_SERVER_TYPE" VALUE="Default" />
+      <RACK_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="SporkRunConfigurationType" factoryName="Spork DRb">
@@ -1338,25 +589,6 @@
       <SPORK_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <SPORK_RUN_CONFIG NAME="TEST_FRAMEWORK_ARGS" VALUE="RSPEC" />
       <SPORK_RUN_CONFIG NAME="SPORK_RUN_CONFIG" VALUE="RSPEC" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
-      <module name="" />
-      <RACK_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="D:\proyectos\Copia de promociones" />
-      <RACK_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RACK_CONFIG_SETTINGS_ID NAME="PORT" VALUE="9292" />
-      <RACK_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
-      <RACK_CONFIG_SETTINGS_ID NAME="CONFIG_FILE" VALUE="config.ru" />
-      <RACK_CONFIG_SETTINGS_ID NAME="RACK_SERVER_TYPE" VALUE="Default" />
-      <RACK_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -1523,28 +755,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1032" height="746" extended-state="6" />
+    <frame x="342" y="1" width="1024" height="726" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.4969697" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16136363" sideWeight="0.67540985" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37116563" sideWeight="0.60064936" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34719336" sideWeight="0.69609505" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29707792" sideWeight="0.4989775" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29707792" sideWeight="0.49386504" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2955665" sideWeight="0.5061856" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30390492" sideWeight="0.49381444" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295082" sideWeight="0.4969697" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257329" sideWeight="0.59368634" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32427844" sideWeight="0.5927835" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1573,7 +805,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -1583,6 +815,10 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="probando ruby mine" />
@@ -1596,6 +832,7 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="probando ruby mine" />
@@ -1604,9 +841,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/slidesjquery.animate-colors-min.js">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/sessions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/sliders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/slidesjquery.animate-colors-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -1615,16 +870,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/slidesjquery.easing.1.3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="11" column="25" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/slidesjquery.skitter.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="12" column="9" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1640,86 +893,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="67" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="57" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+        <state line="34" column="18" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/authentications_controller.rb">
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/categoria_controller.rb">
+    <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ciudads_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/cupons_controller.rb">
+    <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/acercade_helper.rb">
+    <entry file="file://$PROJECT_DIR$/script/rails">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/mailers/user_mailer.rb">
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/ability.rb">
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/uploaders/empresaimage_uploader.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="2" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/uploaders/sliderimage_uploader.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="2" selection-start="1435" selection-end="1435" vertical-scroll-proportion="1.3663552">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

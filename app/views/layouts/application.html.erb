@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<html>
+
 <head>
-  <title>Ahi Te Veo</title>
+  <title>Ahi Te Veo: Deals on Restaurants, Fitness, Travel, Shopping, Beauty &amp; more</title>
   <%= stylesheet_link_tag "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
+  <meta content='Get 50-90% off Restaurants, Fitness, Travel, Shopping, Beauty, Spas, Yoga, Dentists, Home Services, Automotive, Pets, Comedy Clubs, Nightlife, Theater and more. Get the Deal of the Day email in La paz, Cochabamba, Santa Cruz, Oruro, Potosi, Chuquisaca, Beni, Pando ... everywhere! Get your Ahiteveo today.' name='description'/>
   <%= csrf_meta_tags %>
 
   <script>
@@ -24,8 +25,9 @@
   </script>
 </head>
 <!--inicio de body-->
-<body class="<%= params[:controller] %>">
 <section id="todo">
+<body class="<%= params[:controller] %>">
+
   <header>
     <div id="logo">
       <%= link_to image_tag("logo.png", :widht => "100", :height => "100"), "/principal/index" %>
@@ -33,7 +35,6 @@
     <div id="slogan">
       <p> TU MEJOR OPCION PARA PROMOCIONAR TUS PRODUCTOS </p>
     </div>
-    <!-- inicio de login-->
     <div id="login">
       <% if current_user %>
           Sesión iniciada como: <%= current_user.email %>.<%= link_to "Cerrar sesión", logout_path %>
@@ -42,20 +43,14 @@
           <%= render "new" %>
       <% end %>
     </div>
-    <!-- fin de login-->
   </header>
-  <!--inicio de menu --><%= render "menu1" %>
-  <!--fin de menu --><!--inicio de menu2--><!--fin de menu2-->
+  <%= render "menu1" %>
   <br/>
-  <!--inicio de slides-->
-
   <% if controller_path == "principal" %>
       <center>
         <%= render "slide" %>
       </center>
   <% end %>
-
-  <!--fin  de slides-->
   <section id="conten2">
     <section id="menu2">
       <!--inicio menu 2-->
@@ -86,34 +81,21 @@
       <!--fin menu 2-->
     </section>
   </section>
-
-  <br/>
-  <br/>
-  <br/>
-  <br/>
 </body>
 
 
 <!--fin de body--><!--inicio de footer-->
 <footer>
     <span class="copyright">Copyright &copy; 2013 <div id="logo">
-      <%= link_to image_tag("logosie1.png", :widht => "50", :height => "50"), "http://www.sie.com" %>
+      <%= link_to image_tag("logosie1.png", :widht => "50", :height => "50"), "http://www.sielabs.net" %>
     </div>
     All Rights Reserved</span>
   <br>
 
   <div id="men">
-    <a href="/contact/">Contactos</a>
-    | <a href="/terms.html">terminos de uso</a>
-    | <a href="/privacy.html">Privacidad</a>
-    | <a href="/about">Sobre nosotros</a>
-    | <a href="//support.twitter.com">Ayuda</a>
-    | <a href="http://blog.es.twitter.com">Blog</a>
-    | <a href="/download">Móvil</a>
-    | <a href="/jobs">Trabajos</a>
-    | <a href="/tos">Condiciones</a>
-    | <a href="/privacy">Privacidad </a>
-    | <a href="//business.twitter.com/es/advertise/start">Publicidad</a>
+    <%= link_to "Contactos", :controller => :contacts, :action => :new %>
+    |<%= link_to "terminos de uso", :controller => :empresas, :action => :acuerdo %>
+
   </div>
 </footer>
 <!--fin de footer-->
